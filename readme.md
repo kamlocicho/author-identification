@@ -8,13 +8,13 @@ The project is based on project from book: Real-World Python: A Hacker's Guide t
 1. Clone the repository:
 
     ```
-    git clone https://github.com/kamlocicho/nlp-demo.git
+    git clone https://github.com/kamlocicho/author-identification.git
     ```
 
 2. Navigate into the project directory:
 
     ```
-    cd nlp-demo
+    cd author-identification
     ```
 
 3. Open the Jupyter notebook `find_author.ipynb` to access and run the code.
