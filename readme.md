@@ -1,6 +1,7 @@
 # Author Identification with NLTK
 
 This project focuses on identifying the author of a given book using various techniques implemented with the Natural Language Toolkit (NLTK) in Python. The identification is based on several factors including Jaccard's probability, vocabulary test, word length test, and non-indexed word frequency.
+The project is based on project from book: Real-World Python: A Hacker's Guide to Solving Problems with Code
 
 ## Installation
 
